@@ -1987,7 +1987,7 @@ CharmanderEvosMoves:
 	db EVOLVE_LEVEL, 16, CHARMELEON
 	db 0
 ; Learnset
-	db 9, EMBER
+	db 6, FIRE_PUNCH
 	db 15, LEER
 	db 22, RAGE
 	db 30, SLASH
